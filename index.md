@@ -11,41 +11,41 @@ layout: course-single
 
 # <a name="description">Objectives</a>
 
-  Electrical Energy plays a significant role in day-to-day life of entire mankind. This course deals with the generation of power along with its economic aspects. It deals with the basic theory of various conventional power stations and the different components present in them. The course also helps the students to familiarize with different types of substations and its advantages and disadvantages. It also deals with the economic aspects of power system, power factor correction techniques and suitable pricing methods. 
+  This course enables the fundamentals of electrostatics, magneto-statics and electromagnetic fields. It defines capacitors, inductors and resistors in terms of primary electric and magnetic quantities. It also emphasizes the physical understanding and practical applications of electromagnetics in electrical engineering. 
 
 ## <a name="outcomes">Course Outcomes</a>
 
 After the completion of the course, the student will be able to:
 
-A7205.1 Identify the different components of an electric power system.
- 
-A7205.2 Categorize the methods of generating electrical power to meet the required Load demand. 
+A6207.1. Apply orthogonal coordinate systems and physical laws to determine electric and magnetic field components.
 
-A7205.3 Develop a layout and single line diagram for a given substation. 
+A6207.2. Analyze electric and magnetic fields in static and time varying fields.
 
-A7205.4 Model a power system to reduce economic losses. 
+A6207.3. Examine Maxwell’s equations for static and time varying fields.
+
+A6207.4. Evaluate the capacitance, inductance and magnetic force for geometrical conductors in electromagnetic fields. 
 
 # <a name="syllabus">Syllabus</a>
 
-**Introduction:** Conventional Energy Sources and their availability, Non-ConventionalEnergy Sources and their availability, Environmental impact of conventional and Non-Conventional energy sources. Hydro Electric Power Plants - Site selection, Plant layout,various components, Types of turbines, Governor and speed regulation, Pumped storage,Small scale hydroelectric plants (mini and micro).
+**Static electric fields:** Co-ordinate Systems, coulomb’s Law, electrostatic fields, definition of Electric Field Intensity (EFI), EFI due to a line and a surface charge, Work done in moving a point charge in an electrostatic field, Electric Potential, Electric dipole, dipole moment, potential gradient. Gauss’s law, applications of Gauss’s Law, Maxwell’s first law.
 
-**Thermal Power Plant:** Site selection, Plant layout, Coal its storage, Preparation, Han-dling, Feeding and burning, Cooling towers, Ash handling, Water treatment plant, Highpressure boilers and steam turbines.
+**Static magnetic fields:** Biot-Savart’s law, Magnetic Field intensity(MFI) due to a finite and infinite wire carrying a current I, circular and rectangular loop carrying a current I, Ampere’s circuital law and its applications. MFI due to an infinite sheet of current, a long current carrying filament and co-axial cable, point form of Ampere’s circuital law, Maxwell’s equations for static fields.
 
-**Nuclear Power Plant:** Main components of nuclear power plant, Nuclear reactors typesand applications, Radiation shielding, Radioactive and waste disposal safety aspect.
+**Electric and magnetic fields in materials:** Laplace’s and Poison’s equations, solution of Laplace’s equation in one variable, capacitance, capacitance of parallel plate, spherical and co-axial capacitors with composite dielectrics, boundary conditions for electric fields, conduction and convection current densities, Ohm’s law in point form, equation of continuity. Self and Mutual inductance, Neumann’s formulae, self-inductance of a solenoid, Toroid and Co-Axial cable, energy stored in a magnetic field.
 
-**Wind Energy:** Horizontal and vertical axis windmills, performance characteristics andBetz criteria. Bio-Mass: Principles of Bio-Conversion, Anaerobic/aerobic digestion, typesof Bio-gas digesters, gas yield, combustion characteristics of bio-gas, utilization for cook-ing. Geothermal Energy: Resources, types of wells, methods of harnessing the energy, potential in India. Tidal and Wave Energy: Potential, Conversion techniques and mini-hydel power plants.
+**Force in magnetic mields:** Magnetic force, Lorentz force equation, force on a current element in a magnetic field, Force on a long current carrying conductor in a magnetic field, force between two parallel current carrying conductors, magnetic dipole and dipole moment, torque on a current loop placed in a magnetic field, scalar Magnetic Potential and its limitations, magnetic vector potential.
 
-**Economic Aspects of Power Generation and Tariff Methods:** Base load andpeak load on power station. Interconnected grid system, Load curve, load duration andintegrated load duration curves, demand, diversity, capacity, utilization and plant usefactors. Costs of electrical energy - Fixed, Semi-fixed and Running Costs, Selection oftype of generation and generation equipment, Performance and operating characteristicsof power plants, Economic scheduling principle. Tariff, Characteristics, Types - Flat Rate,Block-Rate, two-part, three-part, and power factor tariff methods.
+**Time varying fields:** Faraday’s laws of electromagnetic induction, Its integral and point forms, Maxwell’s fourth equation, Statically and Dynamically induced EMFs, simple problems, modification of Maxwell’s equations for time varying fields, displacement current, Poynting Theorem and Poynting vector.
 
 # <a name="textbooks">Text Books</a>
 
-1. M. L. Soni, P. V. Gupta, U. S. Bhatnagar, A. Chakrabarti (2010), “A Text Book on Power System Engineering”, 2nd Edition, Dhanpat Rai & Co. Pvt. Ltd, New Delhi.
-2. C. L. Wadhwa (2010), “Generation, Distribution and Utilization of Electrical Energy”, 3rd Edition, New Age International (P) Limited, New Delhi.
+1. William H.Hayt, John. A. Buck, Engineering Electromagnetics, 7th Edition, Tata McGraw Hill Companies, New Delhi, 2006
+2. Sadiku , Electro Magnetic Fields, 4th edition, Oxford Publications India, New Delhi, 2005
 
 ## <a name="references">Reference Books</a>
 
-1. Leonard L. Grigsby (2012), “Electric Power Generation Transmission and Distribution, 3rd Edition, CRC press.
-2. J. B. Gupta (2010), “A Course in Power Systems”, 10th Edition, S. K. Kataria & Sons, New Delhi.
+1. David J. Griffiths , Introduction to Electro Dynamics, 3rd edition, Prentice Hall of India, New Delhi, 2007
+2. John. D. Kraus, D.A. Fleish , Electromagnetics with Applications, 5th edition,Tata McGraw Hill Inc., New Delhi, India, 2007
 
 <hr>
 
